@@ -1,15 +1,3 @@
-# Test-Diplom-Work
-```mermaid
-graph LR;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+`#0969DA`
+hjhojl;
 
-```mermaid
-pie title У Маши в квартире проживает
-    "Собаки" : 386
-    "Кошки" : 85
-    "Хомячки" : 15
-```
